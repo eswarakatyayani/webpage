@@ -1,1 +1,0 @@
-This is file 1 of  EPAM task to push changes into remote repo
